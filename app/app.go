@@ -64,5 +64,3 @@ func buscarServidores(c *cli.Context) {
 		fmt.Println(servidor.Host)
 	}
 }
-
-//compilar: go build
